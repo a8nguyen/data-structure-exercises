@@ -1,7 +1,7 @@
 import click
 import unittest
 import string
-_dictfile = "/usr/share/dict/words"
+_dictfile = "/usr/share/dict/words"                     #dictionary comes from Ubuntu on Mac and/or Linux. Window users might have the list of words elsewhere.
 
 # Challenges:
 # 0. Complete the task as written
